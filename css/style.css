@@ -66,7 +66,7 @@ body {
 
 .banner {
   height: 958px;
-  background-image: url("/asset/banner.png");
+  background-image: url("../asset/banner.png");
   background-position: center;
   background-size: cover;
   display: flex;
